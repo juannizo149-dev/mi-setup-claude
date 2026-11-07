@@ -17,7 +17,7 @@ Este repo tiene dos cosas:
 
 ### 1. Descargar el repo
 ```powershell
-git clone https://github.com/USUARIO/mi-setup-claude.git
+git clone https://github.com/juannizo149-dev/mi-setup-claude.git
 cd mi-setup-claude
 ```
 
